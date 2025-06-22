@@ -65,6 +65,7 @@ def factorial(n):
 pytest -m "not slow"        # Fast tests only
 pytest                      # All tests, including slow LLM tests
 ```
+![Tests](https://github.com/zakkariyaa/mentor-bot/actions/workflows/ci.yml/badge.svg)
 
 ✨ Why This Project?
 Built to demonstrate:
