@@ -1,6 +1,6 @@
 # 🤖 Code Mentor Bot
 
-**Code Mentor Bot** is a local-first AI assistant that explains code snippets — fully offline, with no API calls or cloud dependencies.
+**Code Mentor Bot** is a local-first AI assistant that explains code snippets (fully offline), with no API calls or cloud dependencies.
 
 Powered by:
 - 🧠 Local LLMs via [Ollama](https://ollama.com/)
@@ -73,4 +73,3 @@ Built to demonstrate:
 🔒 Offline-friendly AI toolin <br />
 🧠 LangChain-free LLM integration <br />
 🧑‍💻 Thoughtful UX for code understanding <br />
-📈 Recruiter-ready polish and structure <br />
