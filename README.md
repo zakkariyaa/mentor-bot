@@ -7,12 +7,8 @@ Powered by:
 - 🖥️ Lightweight [Streamlit](https://streamlit.io/) UI
 - 🧰 Supports models like `phi`, `codellama`, and `mistral`
 
----
-
-## 🧪 Demo
-
-![demo-gif](demo.gif)  
-<sub>Live explanation of recursive code using a local model</sub>
+![demo-gif](https://github.com/zakkariyaa/mentor-bot/blob/main/mentor-bot.png)  
+<sub>Live explanation of a function that adds two numbers using a local model</sub>
 
 ---
 
