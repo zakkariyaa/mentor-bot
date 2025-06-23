@@ -33,8 +33,8 @@ Powered by:
 ### 1. Clone and set up environment
 
 ```bash
-git clone https://github.com/your-username/code-mentor-bot.git
-cd code-mentor-bot
+git clone https://github.com/zakkariyaa/mentor-bot.git
+cd mentor-bot
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
